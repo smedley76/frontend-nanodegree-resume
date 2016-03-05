@@ -1,2 +1,3 @@
 var awesomeThoughts = "I am Steven and I am Awesome!";
-console.log(awesomeThoughts);
+var funThoughts = awesomeThoughts.replace("Awesome", "FUN");
+$("#main").append(funThoughts);
