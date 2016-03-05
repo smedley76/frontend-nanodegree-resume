@@ -1,4 +1,3 @@
-/*
-This is empty on purpose! Your code to build the resume will go here.
- */
-$("#main").append("Steven Medley");
+var firstName = "Steven";
+var age = 30;
+console.log(firstName);
